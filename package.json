@@ -35,5 +35,9 @@
   },
   "devDependencies": {
     "typescript": "^5.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BelfoSamad/genkitx-tidb.git"
   }
 }
